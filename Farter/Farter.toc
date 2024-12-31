@@ -1,0 +1,8 @@
+## Interface: 110002
+## Title: Farter
+## Notes: None
+## Author: Robert Skaro
+## Version: 1.0
+
+
+Farter.lua
